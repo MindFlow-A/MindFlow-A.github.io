@@ -1,0 +1,49 @@
+h1 {
+    text-align: center;
+    font-weight: 150;
+    font-size: 70px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  h2 {
+    text-align: center;
+    font-weight: 100;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  p {
+    line-height: 1.5;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  .navbar {
+    width: 30%;
+    background-color: rgb(255, 255, 255);
+    overflow: auto;
+    text-align: center;
+  
+  }
+  .navbar a {
+    float: left;
+    padding: 8px;
+    color: rgb(0, 0, 0);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+  
+  }
+  
+  .navbar a:hover {
+    background-color: #ffffff;
+    
+  }
+  
+  .active {
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+  
+  }
+  a {
+    text-decoration: none;
+  
+  }
